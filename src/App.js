@@ -26,5 +26,7 @@ const App = () => {
             </div>
         </BrowserRouter>);
 }
+switch () {
 
+}
 export default App;
